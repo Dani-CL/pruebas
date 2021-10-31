@@ -1,1 +1,4 @@
 Esta es una prueba para empezar a aprender Git...
+
+Voy haciendo pequeños cambios al archivo para experimentar con el comando git.
+
